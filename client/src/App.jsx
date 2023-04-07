@@ -1,7 +1,5 @@
 import React from 'react'
 import {BrowserRouter,Link,Route,Routes} from 'react-router-dom';
-import {logo} from './assets';
-import {logoblack} from './assets';
 import {logobbg} from './assets';
 
 import {Home,CreatePost} from './pages';
